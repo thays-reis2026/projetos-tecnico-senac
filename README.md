@@ -18,7 +18,7 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 ### 🗄️ DISCIPLINA - AUXILIAR NA MODELAGEM E MANIPULAÇÃO DE BANCO DE DADOS (SQL):
 *Projetos de estruturação e consultas em bancos de dados.*
 
-* 🎬 **[Modelagem Streaming](./mysql-modelagem-de-streaming.mwb)** ⤵
+* 🎬 **[Modelagem Streaming](./mysql-modelagem-de-streaming.mwb)** 
 
 **O Desafio:** Atuar como Analista de Dados para estruturar o banco de dados relacional de uma nova plataforma de filmes sob demanda.
   
@@ -34,7 +34,7 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 
 ---
 
-* 🏎️ **[Gerenciamento de Kart](./criacao.sql)** ⤵
+* 🏎️ **[Gerenciamento de Kart](./criacao.sql)** 
 
 *Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.*
 
@@ -50,7 +50,7 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 
 ---
 
-* 🎮 **[Filtros Avançados TDS Cloud Gaming](./criacaofiltros-queries.sql)**
+* 🎮 **[Filtros Avançados TDS Cloud Gaming](./criacaofiltros-queries.sql)** 
 
 *Consultas complexas e filtros estruturados para plataforma de jogos.*
 
@@ -78,4 +78,4 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 ---
 
 ### 📌 Sobre este repositório
-Este repositório reúne projetos desenvolvidos durante a minha formação técnica, com foco na aplicação prática de conceitos de lógica de programação e banco de dados, na evolução profissional na área de desenvolvimento e análise de dados.
+Este repositório reúne projetos desenvolvidos durante a minha formação técnica com foco na aplicação prática de conceitos de lógica de programação, banco de dados e minha na evolução profissional nas áreas de desenvolvimento e análise de dados.
