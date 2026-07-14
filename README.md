@@ -104,6 +104,11 @@ Considerando apenas as tecnologias abordadas ao longo deste módulo:
 * **MySQL Database:** Banco de dados relacional utilizado para persistência dos dados.
 * **JDBC (Java Database Connectivity):** API de conexão e o driver `mysql-connector-j` para comunicação entre a aplicação Java e o banco MySQL.
 
+### 🎨 Interface e Protótipo (UX/UI)
+O design visual e a experiência do usuário (UX/UI) foram planejados e estruturados no Figma antes da implementação do código, garantindo usabilidade e um fluxo intuitivo para o sistema.
+
+* 🔗 [Acessar Protótipo Interativo no Figma](https://www.figma.com/design/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=0-1&t=TeG09WXOQ9h5vedS-1)
+
 * ⚙️ **[Projeto OperaSystem](./OperaSystem%20Interfaces)**
 
 ## 👥 Time de Desenvolvedores
