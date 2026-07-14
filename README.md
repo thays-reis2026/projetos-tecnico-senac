@@ -7,7 +7,7 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 - SQL (DDL, DML: SELECT, INSERT, UPDATE, DELETE)
 - Portugol
 
-### 💻 DISCIPLINA - DESENVOLVER ALGORITMOS:
+### 🗄️ DISCIPLINA - DESENVOLVER ALGORITMOS:
 *Atividades focadas no desenvolvimento do raciocínio lógico usando Portugol.*
 
 * 🎮 **[Loja de Jogos](./portugol-loja-de-jogos.por)**
@@ -79,3 +79,32 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 
 ### 📌 Sobre este repositório
 Este repositório reúne projetos desenvolvidos durante a minha formação técnica com foco na aplicação prática de conceitos de lógica de programação, banco de dados e minha na evolução profissional nas áreas de desenvolvimento e análise de dados.
+
+---
+
+# Projeto Integrador Assistente de Desenvolvimento de Sistemas:
+### OperaSystem - Sistema de Gerenciamento de Assistência Técnica
+
+## 📊 Status do Projeto
+🚀 Em Avaliação
+
+## 🎯 Objetivo do Software
+O **OperaSystem** é uma aplicação desktop desenvolvida para otimizar e automatizar o fluxo de trabalho de uma assistência técnica. O sistema visa centralizar o controle de acessos, o cadastro de clientes e o registro de atendimentos, substituindo processos manuais por uma solução segura, rápida e integrada a um banco de dados relacional.
+
+## ⚙️ Funcionalidades do Sistema (Requisitos)
+* **Controle de Acesso (Login):** Autenticação segura de usuários cadastrados no banco de dados para proteção das informações do sistema.
+* **Cadastro de Clientes:** Tela intuitiva para inserção, validação e persistência de dados de clientes (Nome, CPF/CNPJ, Telefone e E-mail) diretamente no banco de dados.
+* **Navegação de Fluxo:** Transição fluida entre as telas de Login, Cadastro de Clientes e Registro de Atendimentos.
+* **Persistência de Dados:** Integração completa para salvar, ler e estruturar informações em tempo real.
+
+## 🛠️ Tecnologias Aplicadas
+Considerando apenas as tecnologias abordadas ao longo deste módulo:
+* **Java SE (Standard Edition):** Linguagem de programação principal utilizada no desenvolvimento do sistema.
+* **Java Swing:** Framework utilizado para a criação e design das interfaces gráficas (GUI).
+* **MySQL Database:** Banco de dados relacional utilizado para persistência dos dados.
+* **JDBC (Java Database Connectivity):** API de conexão e o driver `mysql-connector-j` para comunicação entre a aplicação Java e o banco MySQL.
+
+* ⚙️ **[Projeto OperaSystem](./OperaSystem%20Interfaces)**
+
+## 👥 Time de Desenvolvedores
+* **Thays Estefhany Reis França** - Desenvolvedora do Sistema
