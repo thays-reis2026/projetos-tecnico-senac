@@ -139,7 +139,7 @@ A atividade teve como objetivo aplicar procedimentos de exportação e backup de
 
 ## 📂 Arquivos
 
-📄 [Relatório - Backup e Segurança](./Relatório%20-%20Backup%20e%20Segurança.pdf)
+📄 [Relatório - Backup e Segurança](./relatorio-e-criacao-de-usuarios.pdf)
 
-💻 [Script SQL](./script.sql)
+💻 [Script SQL](./script-criacao-insercao.sql)
 
