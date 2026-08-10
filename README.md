@@ -77,16 +77,12 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 
 ---
 
-### 📌 Sobre este repositório
-Este repositório reúne projetos desenvolvidos durante a minha formação técnica com foco na aplicação prática de conceitos de lógica de programação, banco de dados e minha na evolução profissional nas áreas de desenvolvimento e análise de dados.
-
----
-
-# 🗄️ PROJETO INTEGRADOR - ASSISTENTE DE DESENVOLVIMENTO DE SISTEMAS:
+### 🗄️ PROJETO INTEGRADOR - ASSISTENTE DE DESENVOLVIMENTO DE SISTEMAS:
 ### OperaSystem - Sistema de Gerenciamento de Assistência Técnica
 
 ## 📊 Status do Projeto
-🚀 Em Avaliação
+
+🏆 Concluído / Aprovado (Conceito D - Desenvolveu)
 
 ## 🎯 Objetivo do Software
 O **OperaSystem** é uma aplicação desktop desenvolvida para otimizar e automatizar o fluxo de trabalho de uma assistência técnica. O sistema visa centralizar o controle de acessos, o cadastro de clientes e o registro de atendimentos, substituindo processos manuais por uma solução segura, rápida e integrada a um banco de dados relacional.
@@ -107,7 +103,7 @@ Considerando apenas as tecnologias abordadas ao longo deste módulo:
 ### 🎨 Interface e Protótipo (UX/UI)
 O design visual e a experiência do usuário (UX/UI) foram planejados e estruturados no Figma antes da implementação do código, garantindo usabilidade e um fluxo intuitivo para o sistema.
 
-* 🔗 [Acessar Protótipo Interativo no Figma](https://www.figma.com/design/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=0-1&t=TeG09WXOQ9h5vedS-1)
+* 🔗 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/design/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=0-1&t=TeG09WXOQ9h5vedS-1)**
 
 * ⚙️ **[Projeto OperaSystem](./OperaSystem%20Interfaces)**
 
@@ -121,25 +117,23 @@ Realização de testes de segurança e elaboração de um plano de backup em um 
 
 A atividade teve como objetivo aplicar procedimentos de exportação e backup de dados, além da criação e gerenciamento de usuários com diferentes níveis de permissão no banco de dados.
 
-## 📋 Atividades realizadas
+## Atividades realizadas
 
-### 💾 Exportação de dados
+💾 **Exportação de dados**
 
 - Exportação individual das tabelas do banco de dados;
 - Exportação completa do banco de dados;
 - Execução dos procedimentos de backup utilizando o MySQL Workbench;
 - Registro das etapas por meio de capturas de tela.
 
-### 🔐 Gestão de usuários e permissões
+🔐 **Gestão de usuários e permissões**
 
-- Criação de usuário com permissões completas de CRUD
-  (CREATE, READ, UPDATE e DELETE);
+- Criação de usuário com permissões completas de CRUD (CREATE, READ, UPDATE e DELETE);
 - Criação de usuário com permissão somente para consulta;
 - Aplicação e teste das permissões de acesso.
 
-## 📂 Arquivos
+📂 Projetos
 
-📄 [Relatório - Backup e Segurança](./relatorio-e-criacao-de-usuarios.pdf)
+📄 [Relatório - Backup e Segurança](./banco-de-dados/relatorio-backup-e-criacao-de-usuarios.pdf)
 
-💻 [Script SQL](./script-criacao-insercao.sql)
-
+💻 [Script SQL](./banco-de-dados/script-criacao-insercao.sql)
