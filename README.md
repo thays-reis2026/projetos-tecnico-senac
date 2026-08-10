@@ -82,7 +82,7 @@ Este repositório reúne projetos desenvolvidos durante a minha formação técn
 
 ---
 
-# Projeto Integrador Assistente de Desenvolvimento de Sistemas:
+# 🗄️ PROJETO INTEGRADOR - ASSISTENTE DE DESENVOLVIMENTO DE SISTEMAS:
 ### OperaSystem - Sistema de Gerenciamento de Assistência Técnica
 
 ## 📊 Status do Projeto
@@ -113,3 +113,33 @@ O design visual e a experiência do usuário (UX/UI) foram planejados e estrutur
 
 ## 👥 Time de Desenvolvedores
 * **Thays Estefhany Reis França** - Desenvolvedora do Sistema
+  
+---
+
+### 🗄️ DISCIPLINA - AUXILIAR NA ADMINISTRAÇÃO DE BANCO DE DADOS:
+Realização de testes de segurança e elaboração de um plano de backup em um banco de dados de teste, simulando uma versão simplificada do sistema final.
+
+A atividade teve como objetivo aplicar procedimentos de exportação e backup de dados, além da criação e gerenciamento de usuários com diferentes níveis de permissão no banco de dados.
+
+## 📋 Atividades realizadas
+
+### 💾 Exportação de dados
+
+- Exportação individual das tabelas do banco de dados;
+- Exportação completa do banco de dados;
+- Execução dos procedimentos de backup utilizando o MySQL Workbench;
+- Registro das etapas por meio de capturas de tela.
+
+### 🔐 Gestão de usuários e permissões
+
+- Criação de usuário com permissões completas de CRUD
+  (CREATE, READ, UPDATE e DELETE);
+- Criação de usuário com permissão somente para consulta;
+- Aplicação e teste das permissões de acesso.
+
+## 📂 Arquivos
+
+📄 [Relatório - Backup e Segurança](./Relatório%20-%20Backup%20e%20Segurança.pdf)
+
+💻 [Script SQL](./script.sql)
+
