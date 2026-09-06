@@ -10,15 +10,15 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 ### 🗄️ DISCIPLINA - DESENVOLVER ALGORITMOS:
 *Atividades focadas no desenvolvimento do raciocínio lógico usando Portugol.*
 
-* 🎮 **[Loja de Jogos](./portugol-loja-de-jogos.por)**
-* 🍽️ **[Sugestão de Pratos](./portugol-sugestao-de-pratos.por)**
+* 🎮 **[Loja de Jogos](./portugol-logica/portugol-loja-de-jogos.por)**
+* 🍽️ **[Sugestão de Pratos](./portugol-logica/portugol-sugestao-de-pratos.por)**
 
 ---
 
 ### 🗄️ DISCIPLINA - AUXILIAR NA MODELAGEM E MANIPULAÇÃO DE BANCO DE DADOS (SQL):
 *Projetos de estruturação e consultas em bancos de dados.*
 
-* 🎬 **[Modelagem Streaming](./mysql-modelagem-de-streaming.mwb)** 
+* 🎬 **[Modelagem Streaming](./banco-de-dados/mysql-modelagem-de-streaming.mwb)** 
 
 **O Desafio:** Atuar como Analista de Dados para estruturar o banco de dados relacional de uma nova plataforma de filmes sob demanda.
   
@@ -29,12 +29,12 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 - Definição de tipos de dados adequados e chaves estrangeiras.
 
 <p align="center">
-  <img src="./diagrama-der.png" width="600">
+  <img src="./banco-de-dados/diagrama-der.png" width="600">
 </p>
 
 ---
 
-* 🏎️ **[Gerenciamento de Kart](./criacao.sql)** 
+* 🏎️ **[Gerenciamento de Kart](./banco-de-dados/criacao.sql)** 
 
 *Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.*
 
@@ -45,12 +45,12 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 - Remoção de patrocinadores (DELETE)
 
 <p align="center">
-  <img src="./DiagramaER-Kart-Thays.png" width="600">
+  <img src="./banco-de-dados/DiagramaER-Kart-Thays.png" width="600">
 </p>
 
 ---
 
-* 🎮 **[Filtros Avançados TDS Cloud Gaming](./criacaofiltros-queries.sql)** 
+* 🎮 **[Filtros Avançados TDS Cloud Gaming](./banco-de-dados/criacaofiltros-queries.sql)** 
 
 *Consultas complexas e filtros estruturados para plataforma de jogos.*
 
@@ -167,7 +167,7 @@ entre telas e uma experiência de usuário agradável.
 ## 📄 Todas as telas do wireframe: 
 
 <p align="center">
-  <img src="./Wireframes-Pizzaria.png" width="600">
+  <img src="./uiux-pizzaria/Wireframes-Pizzaria.png" width="600">
 </p>
 
 ## 🛠️ Ferramentas utilizadas
