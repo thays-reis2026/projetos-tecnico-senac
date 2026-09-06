@@ -45,7 +45,7 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 - Remoção de patrocinadores (DELETE)
 
 <p align="center">
-  <img src="./banco-de-dados/DiagramaER-Kart-Thays.png" width="600">
+  <img src="./banco-de-dados/diagramaER-kart-thays.png" width="600">
 </p>
 
 ---
@@ -167,7 +167,7 @@ entre telas e uma experiência de usuário agradável.
 ## 📄 Todas as telas do wireframe: 
 
 <p align="center">
-  <img src="./uiux-pizzaria/Wireframes-Pizzaria.png" width="600">
+  <img src="./uiux-pizzaria/wireframes-pizzaria.png" width="600">
 </p>
 
 ## 🛠️ Ferramentas utilizadas
