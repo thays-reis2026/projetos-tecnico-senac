@@ -44,7 +44,7 @@ sistemas funcionais do início ao fim.
 </p>
 
 *Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.*
-* 🏎️ **[Gerenciamento de Kart](./banco-de-dados/criacao.sql)** 
+* 🏎️ **[Gerenciamento de Kart](./banco-de-dados/criacao.sql)** *(arquivo do MySQL Workbench — visualize o diagrama abaixo)*
 
 ### Requisitos do Projeto:
 - Criação completa do banco (DDL)
