@@ -1,11 +1,22 @@
-# projetos-tecnico-senac
-Repositório com projetos práticos desenvolvidos durante o meu curso Técnico em Desenvolvimento de Sistemas (Senac), com foco em lógica de programação e banco de dados. Este repositório reúne modelagens de banco de dados, scripts SQL completos, UI/UX e aplicações práticas voltadas ao mercado.
+# 📁 Projetos Técnico em Desenvolvimento de Sistemas (Senac)
 
-### 🚀 Tecnologias utilizadas:
-- MySQL
-- MySQL Workbench
-- SQL (DDL, DML: SELECT, INSERT, UPDATE, DELETE)
-- Portugol
+Este repositório reúne os principais projetos práticos desenvolvidos ao longo 
+da minha formação técnica em Desenvolvimento de Sistemas pelo Senac. Aqui você 
+encontra desde a lógica de programação inicial até projetos mais completos, 
+envolvendo modelagem e manipulação de banco de dados, design de interfaces 
+(UI/UX) e uma aplicação desktop integrada — o Projeto Integrador.
+
+Mais do que uma coleção de atividades, este espaço documenta minha evolução 
+técnica: como estruturo problemas, aplico boas práticas de banco de dados 
+relacional, planejo experiências de usuário antes de codificar e desenvolvo 
+sistemas funcionais do início ao fim.
+
+## O que você vai encontrar aqui
+
+- 🧠 **Lógica de Programação** — exercícios em Portugol
+- 🗄️ **Banco de Dados** — modelagem relacional, diagramas ER e scripts SQL (DDL/DML)
+- 🎨 **UI/UX** — protótipos navegáveis no Figma
+- 💻 **Projeto Integrador** — sistema desktop completo (Java + MySQL)
 
 ### 🗄️ DISCIPLINA - DESENVOLVER ALGORITMOS:
 *Atividades focadas no desenvolvimento do raciocínio lógico usando Portugol.*
@@ -22,7 +33,7 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
 
 **O Desafio:** Atuar como Analista de Dados para estruturar o banco de dados relacional de uma nova plataforma de filmes sob demanda.
   
-#### 🔧 Requisitos do Projeto:
+### Requisitos do Projeto:
 - Modelagem de Entidades (Usuário, Endereço, Conteúdo, Estúdio e Visualização).
 - Implementação de Regras de Negócio (vínculo obrigatório de endereço, relacionamento 1:N entre estúdio e conteúdo).
 - Criação de relacionamento N:N para registro de histórico de visualizações com métricas de tempo.
@@ -32,13 +43,10 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
   <img src="./banco-de-dados/diagrama-der.png" width="600">
 </p>
 
----
-
+*Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.*
 * 🏎️ **[Gerenciamento de Kart](./banco-de-dados/criacao.sql)** 
 
-*Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.*
-
-#### 🔧 Requisitos do Projeto:
+### Requisitos do Projeto:
 - Criação completa do banco (DDL)
 - Inserção de dados da temporada (DML)
 - Atualizações de etapas (UPDATE)
@@ -48,15 +56,13 @@ Repositório com projetos práticos desenvolvidos durante o meu curso Técnico e
   <img src="./banco-de-dados/diagramaER-kart-thays.png" width="600">
 </p>
 
----
-
+*Consultas complexas e filtros estruturados para plataforma de jogos.*
 * 🎮 **[Filtros Avançados TDS Cloud Gaming](./banco-de-dados/criacaofiltros-queries.sql)** 
 
-*Consultas complexas e filtros estruturados para plataforma de jogos.*
 
 **O Desafio:** Criar filtros de busca avançados para a plataforma TDS Cloud Gaming, aplicando técnicas avançadas de consulta em MySQL como agregações, JOINs e subconsultas.
 
-#### 🔧 Requisitos do Projeto:
+### Requisitos do Projeto:
 - Seleção de registros com filtros temporais e financeiros.
 - Uso de funções de agregação para cálculos de média e totais.
 - Implementação de junções entre múltiplas tabelas (Usuários, Bibliotecas e Jogos).
@@ -148,33 +154,33 @@ Protótipo de alta fidelidade desenvolvido no Figma para um sistema desktop
 de gestão de uma pizzaria, contemplando login, controle de caixa e 
 cadastro de clientes.
 
-## 🎯 Sobre o Projeto
+### 🎯 Sobre o Projeto
 
 Projeto desenvolvido como parte da disciplina de UI/UX com foco em criar uma navegação fluida 
 entre telas e uma experiência de usuário agradável.
 
-## 🖥️ Telas Desenvolvidas
+### 🖥️ Telas Desenvolvidas
 
 - **Login** — tela de autenticação do sistema.
 - **Tela de erro** — feedback visual de usuário/senha inválidos.
 - **Controle de Caixa** — registro de entradas e saídas financeiras.
 - **Cadastro de Clientes** — formulário de cadastro com dados de contato.
 
-## 🎨 Protótipo Interativo
+### 🎨 Protótipo Interativo
 
 [Acesse o Protótipo Navegável no Figma](https://www.figma.com/proto/QjyoQaU6qb7vhImM8xqcKZ/Wireframes-Pizzaria?node-id=34-478&p=f&t=ybuqKkQgu0wA8tHJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-## 📄 Todas as telas do wireframe
+### 📄 Todas as Telas do Wireframe
 
 <p align="center">
-  <img src="./uiux-pizzaria/wireframes-pizzaria.png" width="600">
+  <img src="./uiux-pizzaria/wireframes-pizzaria.png" width="1007">
 </p>
 
-## 🛠️ Ferramentas Utilizadas
+### 🛠️ Ferramentas Utilizadas
 
 - Figma (prototipação e design UI/UX)
 
-## 📌 Status
+### 📌 Status
 
 ✅ Projeto entregue e avaliado — feedback: "Wireframes bem desenvolvidos 
 e navegação válida."
