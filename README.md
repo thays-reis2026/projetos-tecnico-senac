@@ -142,35 +142,35 @@ A atividade teve como objetivo aplicar procedimentos de exportação e backup de
 
 ### 🗄️ DISCIPLINA - Desenvolver Projeto de Interface para Melhor Experiência do Usuário:
 
-Sistema Desktop - Pizzaria do Sr. Manoel (Protótipo UI/UX)
+###Sistema Desktop - Pizzaria do Sr. Manoel (Protótipo UI/UX)
 
 Protótipo de alta fidelidade desenvolvido no Figma para um sistema desktop 
 de gestão de uma pizzaria, contemplando login, controle de caixa e 
 cadastro de clientes.
 
-## 🎯 Sobre o projeto
+## 🎯 Sobre o Projeto
 
 Projeto desenvolvido como parte da disciplina de UI/UX com foco em criar uma navegação fluida 
 entre telas e uma experiência de usuário agradável.
 
-## 🖥️ Telas desenvolvidas
+## 🖥️ Telas Desenvolvidas
 
 - **Login** — tela de autenticação do sistema.
 - **Tela de erro** — feedback visual de usuário/senha inválidos.
 - **Controle de Caixa** — registro de entradas e saídas financeiras.
 - **Cadastro de Clientes** — formulário de cadastro com dados de contato.
 
-## 🔗 Protótipo interativo
+## 🎨 Protótipo Interativo
 
 [Acesse o Protótipo Navegável no Figma](https://www.figma.com/proto/QjyoQaU6qb7vhImM8xqcKZ/Wireframes-Pizzaria?node-id=34-478&p=f&t=ybuqKkQgu0wA8tHJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-## 📄 Todas as telas do wireframe: 
+## 📄 Todas as telas do wireframe
 
 <p align="center">
   <img src="./uiux-pizzaria/wireframes-pizzaria.png" width="600">
 </p>
 
-## 🛠️ Ferramentas utilizadas
+## 🛠️ Ferramentas Utilizadas
 
 - Figma (prototipação e design UI/UX)
 
