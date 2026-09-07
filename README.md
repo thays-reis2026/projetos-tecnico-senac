@@ -109,9 +109,9 @@ Considerando apenas as tecnologias abordadas ao longo deste módulo:
 ### 🎨 Interface e Protótipo (UX/UI)
 O design visual e a experiência do usuário (UX/UI) foram planejados e estruturados no Figma antes da implementação do código, garantindo usabilidade e um fluxo intuitivo para o sistema.
 
-* 🔗 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/design/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=0-1&t=TeG09WXOQ9h5vedS-1)**
+* 🔗 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/proto/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=42-7&t=CUuK3TVibQBDClna-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A7])**
 
-* ⚙️ **[Projeto OperaSystem](./OperaSystem%20Interfaces)**
+* ⚙️ **[Projeto OperaSystem](./oerasystem-interfaces/OperaSystem%20Interfaces)**
 
 ## 👥 Time de Desenvolvedores
 * **Thays Estefhany Reis França** - Desenvolvedora do Sistema
