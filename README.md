@@ -213,7 +213,7 @@ e navegação válida."
 
 **3. Valor total**
 
-![Valor total](lojamvp/imagens/mensagem.png)
+<img src="lojamvp/imagens/mensagem.png" alt="Valor total" width="300">
 
 ### 🛠️ Ferramentas Utilizadas
 - Java (Swing)
