@@ -146,7 +146,7 @@ A atividade teve como objetivo aplicar procedimentos de exportação e backup de
 
 ---
 
-### 🗄️ DISCIPLINA - Desenvolver Projeto de Interface para Melhor Experiência do Usuário:
+### 🗄️ DISCIPLINA - DESENVOLVER PROJETO DE INTERFACE PARA MELHOR EXPERIÊNCIA DO USUÁRIO:
 
 ###Sistema Desktop - Pizzaria do Sr. Manoel (Protótipo UI/UX)
 
@@ -184,3 +184,45 @@ entre telas e uma experiência de usuário agradável.
 
 ✅ Projeto entregue e avaliado — feedback: "Wireframes bem desenvolvidos 
 e navegação válida."
+
+---
+
+### 🗄️ DISCIPLINA - DESENVOLVER E ORGANIZAR INTERFACE GRÁFICA PARA APLICAÇÕES DESKTOP 
+
+###Loja MVP (Java)
+
+### 📋 Enunciado
+
+**Contexto:** uma empresa de desenvolvimento está montando um MVP (produto viável mínimo) para uma loja, e a tarefa era criar telas simples em Java, usando apenas código, sem ferramentas visuais.
+
+**O que foi pedido:**
+- Criar uma janela com um campo de texto e um botão, onde o usuário informa o valor de uma venda.
+- Se o valor for maior que 500, abrir uma caixa de diálogo pedindo o percentual de desconto (apenas números).
+- Calcular o valor total, com desconto quando houver, e mostrá-lo em outra caixa de diálogo.
+- Validar os valores informados pelo usuário.
+
+### 📸 Telas da Aplicação
+
+**1. Entrada do valor da venda**
+
+![Valor da venda](lojamvp/imagens/valor-da-venda.png)
+
+**2. Percentual de desconto (para valores acima de 500)**
+
+![Percentual de desconto](lojamvp/imagens/percentual-desconto.png)
+
+**3. Valor total**
+
+![Valor total](lojamvp/imagens/mensagem.png)
+
+### 🛠️ Ferramentas Utilizadas
+- Java (Swing)
+- NetBeans
+
+### 📌 Status
+
+Projeto entregue e avaliado pelo professor:
+
+> "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
+
+[Ver código do projeto](lojamvp/)
