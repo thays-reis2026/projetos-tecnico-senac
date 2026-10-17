@@ -148,7 +148,7 @@ A atividade teve como objetivo aplicar procedimentos de exportação e backup de
 
 ### 🗄️ DISCIPLINA - DESENVOLVER PROJETO DE INTERFACE PARA MELHOR EXPERIÊNCIA DO USUÁRIO:
 
-###Sistema Desktop - Pizzaria do Sr. Manoel (Protótipo UI/UX)
+### Sistema Desktop - Pizzaria do Sr. Manoel (Protótipo UI/UX)
 
 Protótipo de alta fidelidade desenvolvido no Figma para um sistema desktop 
 de gestão de uma pizzaria, contemplando login, controle de caixa e 
@@ -189,7 +189,7 @@ e navegação válida."
 
 ### 🗄️ DISCIPLINA - DESENVOLVER E ORGANIZAR INTERFACE GRÁFICA PARA APLICAÇÕES DESKTOP 
 
-###Loja MVP (Java)
+### Loja MVP (Java)
 
 ### 📋 Enunciado
 
@@ -201,19 +201,20 @@ e navegação válida."
 - Calcular o valor total, com desconto quando houver, e mostrá-lo em outra caixa de diálogo.
 - Validar os valores informados pelo usuário.
 
-### 📸 Telas da Aplicação
+#### 📸 Telas da Aplicação
 
-**1. Entrada do valor da venda**
-
-![Valor da venda](lojamvp/imagens/valor-da-venda.png)
-
-**2. Percentual de desconto (para valores acima de 500)**
-
-![Percentual de desconto](lojamvp/imagens/percentual-desconto.png)
-
-**3. Valor total**
-
-<img src="lojamvp/imagens/mensagem.png" alt="Valor total" width="300">
+<table>
+  <tr>
+    <th align="center">1. Entrada do valor da venda</th>
+    <th align="center">2. Percentual de desconto</th>
+    <th align="center">3. Valor total</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="lojamvp/imagens/valor-da-venda.png" alt="Valor da venda" width="250"></td>
+    <td align="center" valign="middle"><img src="lojamvp/imagens/percentual-desconto.png" alt="Percentual de desconto" width="250"></td>
+    <td align="center" valign="middle"><img src="lojamvp/imagens/mensagem.png" alt="Valor total" width="250"></td>
+  </tr>
+</table>
 
 ### 🛠️ Ferramentas Utilizadas
 - Java (Swing)
@@ -226,3 +227,57 @@ Projeto entregue e avaliado pelo professor:
 > "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
 
 [Ver código do projeto](lojamvp/)
+
+## 🥗 NutriSoft (Java)
+
+Software desktop em Java (Swing) que reúne cálculos comuns da rotina de nutricionistas: IMC, gasto calórico e recomendação de nutrientes.
+
+### 📋 Enunciado
+
+**Contexto:** o Sindicato dos Nutricionistas quer distribuir aos associados um software desktop para realizar rapidamente cálculos comuns na rotina da profissão.
+
+**O que foi pedido** (usando a ferramenta visual do NetBeans):
+- Tela inicial com botões que levam às demais telas.
+- **IMC:** calcula Peso / Altura² e mostra a interpretação (Magreza, Normal, Sobrepeso, Obesidade, Obesidade grave).
+- **Gasto Calórico:** calcula o gasto basal (conforme o sexo) e o gasto total (conforme o nível de atividade física).
+- **Recomendações:** a partir das calorias diárias, calcula em gramas os carboidratos (50%), proteínas (25%) e gordura (25%).
+- Validações: o programa não pode quebrar com valores inválidos e deve pedir o preenchimento de todos os campos.
+
+### 📸 Telas da Aplicação
+
+<table>
+  <tr>
+    <th align="center" width="50%">Menu inicial</th>
+    <th align="center" width="50%">Cálculo de IMC</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="nutrisoft/imagens/menu-inicial.png" alt="Menu inicial" width="350"></td>
+    <td align="center" valign="top"><img src="nutrisoft/imagens/calculo-imc.png" alt="Cálculo de IMC" width="350"></td>
+  </tr>
+  <tr>
+    <th align="center">Gasto calórico</th>
+    <th align="center">Recomendações</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="nutrisoft/imagens/gasto-calorico.png" alt="Gasto calórico" width="350"></td>
+    <td align="center" valign="top"><img src="nutrisoft/imagens/recomendacoes.png" alt="Recomendações" width="350"></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">Validação de campos vazios</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2"><img src="nutrisoft/imagens/validacao.png" alt="Validação" width="350"></td>
+  </tr>
+</table>
+
+### 🛠️ Ferramentas Utilizadas
+- Java (Swing)
+- NetBeans 
+
+### 📌 Status
+
+Projeto entregue e avaliado pelo professor:
+
+> "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
+
+[Ver código do projeto](nutrisoft/)
