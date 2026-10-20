@@ -18,16 +18,16 @@ sistemas funcionais do início ao fim.
 - 🎨 **UI/UX** — protótipos navegáveis no Figma
 - 💻 **Projeto Integrador** — sistema desktop completo (Java + MySQL)
 
-### 🗄️ DISCIPLINA - DESENVOLVER ALGORITMOS:
-*Atividades focadas no desenvolvimento do raciocínio lógico usando Portugol.*
+## 🗄️ DISCIPLINA - DESENVOLVER ALGORITMOS:
+### Atividades focadas no desenvolvimento do raciocínio lógico usando Portugol.
 
 * 🎮 **[Loja de Jogos](./portugol-logica/portugol-loja-de-jogos.por)**
 * 🍽️ **[Sugestão de Pratos](./portugol-logica/portugol-sugestao-de-pratos.por)**
 
 ---
 
-### 🗄️ DISCIPLINA - AUXILIAR NA MODELAGEM E MANIPULAÇÃO DE BANCO DE DADOS (SQL):
-*Projetos de estruturação e consultas em bancos de dados.*
+## 🗄️ DISCIPLINA - AUXILIAR NA MODELAGEM E MANIPULAÇÃO DE BANCO DE DADOS (SQL):
+### Projetos de estruturação e consultas em bancos de dados.
 
 * 🎬 **[Modelagem Streaming](./banco-de-dados/mysql-modelagem-de-streaming.mwb)** *(arquivo do MySQL Workbench — visualize o diagrama abaixo)*
 
@@ -43,7 +43,7 @@ sistemas funcionais do início ao fim.
   <img src="./banco-de-dados/diagrama-der.png" width="600">
 </p>
 
-*Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.*
+### Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.
 * 🏎️ **[Gerenciamento de Kart](./banco-de-dados/criacao.sql)** *(arquivo do MySQL Workbench — visualize o diagrama abaixo)*
 
 ### Requisitos do Projeto:
@@ -56,7 +56,7 @@ sistemas funcionais do início ao fim.
   <img src="./banco-de-dados/diagramaER-kart-thays.png" width="600">
 </p>
 
-*Consultas complexas e filtros estruturados para plataforma de jogos.*
+### Consultas complexas e filtros estruturados para plataforma de jogos.
 * 🎮 **[Filtros Avançados TDS Cloud Gaming](./banco-de-dados/criacaofiltros-queries.sql)** 
 
 
@@ -83,10 +83,10 @@ sistemas funcionais do início ao fim.
 
 ---
 
-### 🗄️ PROJETO INTEGRADOR - ASSISTENTE DE DESENVOLVIMENTO DE SISTEMAS:
+## 🗄️ PROJETO INTEGRADOR - ASSISTENTE DE DESENVOLVIMENTO DE SISTEMAS:
 ### OperaSystem - Sistema de Gerenciamento de Assistência Técnica
 
-## 📊 Status do Projeto
+### 📊 Status do Projeto
 
 🏆 Concluído / Aprovado (Conceito D - Desenvolveu)
 
@@ -106,7 +106,7 @@ Considerando apenas as tecnologias abordadas ao longo deste módulo:
 * **MySQL Database:** Banco de dados relacional utilizado para persistência dos dados.
 * **JDBC (Java Database Connectivity):** API de conexão e o driver `mysql-connector-j` para comunicação entre a aplicação Java e o banco MySQL.
 
-### 🎨 Interface e Protótipo (UX/UI)
+## 🎨 Interface e Protótipo (UX/UI)
 O design visual e a experiência do usuário (UX/UI) foram planejados e estruturados no Figma antes da implementação do código, garantindo usabilidade e um fluxo intuitivo para o sistema.
 
 * 🔗 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/proto/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=42-7&t=CUuK3TVibQBDClna-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A7])**
@@ -118,7 +118,7 @@ O design visual e a experiência do usuário (UX/UI) foram planejados e estrutur
   
 ---
 
-### 🗄️ DISCIPLINA - AUXILIAR NA ADMINISTRAÇÃO DE BANCO DE DADOS:
+## 🗄️ DISCIPLINA - AUXILIAR NA ADMINISTRAÇÃO DE BANCO DE DADOS:
 Realização de testes de segurança e elaboração de um plano de backup em um banco de dados de teste, simulando uma versão simplificada do sistema final.
 
 A atividade teve como objetivo aplicar procedimentos de exportação e backup de dados, além da criação e gerenciamento de usuários com diferentes níveis de permissão no banco de dados.
@@ -146,7 +146,7 @@ A atividade teve como objetivo aplicar procedimentos de exportação e backup de
 
 ---
 
-### 🗄️ DISCIPLINA - DESENVOLVER PROJETO DE INTERFACE PARA MELHOR EXPERIÊNCIA DO USUÁRIO:
+## 🗄️ DISCIPLINA - DESENVOLVER PROJETO DE INTERFACE PARA MELHOR EXPERIÊNCIA DO USUÁRIO:
 
 ### Sistema Desktop - Pizzaria do Sr. Manoel (Protótipo UI/UX)
 
@@ -154,44 +154,44 @@ Protótipo de alta fidelidade desenvolvido no Figma para um sistema desktop
 de gestão de uma pizzaria, contemplando login, controle de caixa e 
 cadastro de clientes.
 
-### 🎯 Sobre o Projeto
+## 🎯 Sobre o Projeto
 
 Projeto desenvolvido como parte da disciplina de UI/UX com foco em criar uma navegação fluida 
 entre telas e uma experiência de usuário agradável.
 
-### 🖥️ Telas Desenvolvidas
+## 🖥️ Telas Desenvolvidas
 
 - **Login** — tela de autenticação do sistema.
 - **Tela de erro** — feedback visual de usuário/senha inválidos.
 - **Controle de Caixa** — registro de entradas e saídas financeiras.
 - **Cadastro de Clientes** — formulário de cadastro com dados de contato.
 
-### 🎨 Protótipo Interativo
+## 🎨 Protótipo Interativo
 
 [Acesse o Protótipo Navegável no Figma](https://www.figma.com/proto/QjyoQaU6qb7vhImM8xqcKZ/Wireframes-Pizzaria?node-id=34-478&p=f&t=ybuqKkQgu0wA8tHJ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
-### 📄 Todas as Telas do Wireframe
+## 📄 Todas as Telas do Wireframe
 
 <p align="center">
   <img src="./uiux-pizzaria/wireframes-pizzaria.png" width="1007">
 </p>
 
-### 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 
 - Figma (prototipação e design UI/UX)
 
-### 📌 Status
+## 📌 Status
 
 ✅ Projeto entregue e avaliado — feedback: "Wireframes bem desenvolvidos 
 e navegação válida."
 
 ---
 
-### 🗄️ DISCIPLINA - DESENVOLVER E ORGANIZAR INTERFACE GRÁFICA PARA APLICAÇÕES DESKTOP 
+## 🗄️ DISCIPLINA - DESENVOLVER E ORGANIZAR INTERFACE GRÁFICA PARA APLICAÇÕES DESKTOP 
 
 ### Loja MVP (Java)
 
-### 📋 Enunciado
+## 📋 Enunciado
 
 **Contexto:** uma empresa de desenvolvimento está montando um MVP (produto viável mínimo) para uma loja, e a tarefa era criar telas simples em Java, usando apenas código, sem ferramentas visuais.
 
@@ -201,7 +201,7 @@ e navegação válida."
 - Calcular o valor total, com desconto quando houver, e mostrá-lo em outra caixa de diálogo.
 - Validar os valores informados pelo usuário.
 
-#### 📸 Telas da Aplicação
+## 📸 Telas da Aplicação
 
 <table>
   <tr>
@@ -210,23 +210,23 @@ e navegação válida."
     <th align="center">3. Valor total</th>
   </tr>
   <tr>
-    <td align="center" valign="middle"><img src="lojamvp/imagens/valor-da-venda.png" alt="Valor da venda" width="250"></td>
-    <td align="center" valign="middle"><img src="lojamvp/imagens/percentual-desconto.png" alt="Percentual de desconto" width="250"></td>
-    <td align="center" valign="middle"><img src="lojamvp/imagens/mensagem.png" alt="Valor total" width="250"></td>
+    <td align="center" valign="middle"><img src="java/lojamvp-java/imagens/valor-da-venda.png" alt="Valor da venda" width="250"></td>
+    <td align="center" valign="middle"><img src="java/lojamvp-java/imagens/percentual-desconto.png" alt="Percentual de desconto" width="250"></td>
+    <td align="center" valign="middle"><img src="java/lojamvp-java/imagens/mensagem.png" alt="Valor total" width="250"></td>
   </tr>
 </table>
 
-### 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 - Java (Swing)
 - NetBeans
 
-### 📌 Status
+## 📌 Status
 
 Projeto entregue e avaliado pelo professor:
 
 > "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
 
-[Ver código do projeto](lojamvp/)
+[Ver código do projeto](java/lojamvp-java/)
 
 ## 🥗 NutriSoft (Java)
 
@@ -251,33 +251,33 @@ Software desktop em Java (Swing) que reúne cálculos comuns da rotina de nutric
     <th align="center" width="50%">Cálculo de IMC</th>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="nutrisoft/imagens/menu-inicial.png" alt="Menu inicial" width="350"></td>
-    <td align="center" valign="top"><img src="nutrisoft/imagens/calculo-imc.png" alt="Cálculo de IMC" width="350"></td>
+    <td align="center" valign="top"><img src="java/nutrisoft-java/imagens/menu-inicial.png" alt="Menu inicial" width="350"></td>
+    <td align="center" valign="top"><img src="java/nutrisoft-java/imagens/calculo-imc.png" alt="Cálculo de IMC" width="350"></td>
   </tr>
   <tr>
     <th align="center">Gasto calórico</th>
     <th align="center">Recomendações</th>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="nutrisoft/imagens/gasto-calorico.png" alt="Gasto calórico" width="350"></td>
-    <td align="center" valign="top"><img src="nutrisoft/imagens/recomendacoes.png" alt="Recomendações" width="350"></td>
+    <td align="center" valign="top"><img src="java/nutrisoft-java/imagens/gasto-calorico.png" alt="Gasto calórico" width="350"></td>
+    <td align="center" valign="top"><img src="java/nutrisoft-java/imagens/recomendacoes.png" alt="Recomendações" width="350"></td>
   </tr>
   <tr>
     <th align="center" colspan="2">Validação de campos vazios</th>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2"><img src="nutrisoft/imagens/validacao.png" alt="Validação" width="350"></td>
+    <td align="center" valign="top" colspan="2"><img src="java/nutrisoft-java/imagens/validacao.png" alt="Validação" width="350"></td>
   </tr>
 </table>
 
-### 🛠️ Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 - Java (Swing)
 - NetBeans 
 
-### 📌 Status
+## 📌 Status
 
 Projeto entregue e avaliado pelo professor:
 
 > "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
 
-[Ver código do projeto](nutrisoft/)
+[Ver código do projeto](java/nutrisoft-java/)
