@@ -1,10 +1,6 @@
 # 📁 Projetos Técnico em Desenvolvimento de Sistemas (Senac)
 
-Este repositório reúne os principais projetos práticos desenvolvidos ao longo 
-da minha formação técnica em Desenvolvimento de Sistemas pelo Senac. Aqui você 
-encontra desde a lógica de programação inicial até projetos mais completos, 
-envolvendo modelagem e manipulação de banco de dados, design de interfaces 
-(UI/UX) e uma aplicação desktop integrada — o Projeto Integrador.
+Este repositório reúne os principais projetos práticos desenvolvidos ao longo da minha formação técnica em Desenvolvimento de Sistemas pelo Senac. Aqui você encontra desde a lógica de programação inicial até projetos mais completos envolvendo modelagem e manipulação de banco de dados, design de interfaces (UI/UX), uma aplicação desktop integrada — o Projeto Integrador e projetos em java.
 
 Mais do que uma coleção de atividades, este espaço documenta minha evolução 
 técnica: como estruturo problemas, aplico boas práticas de banco de dados 
@@ -16,10 +12,13 @@ sistemas funcionais do início ao fim.
 - 🧠 **Lógica de Programação** — exercícios em Portugol
 - 🗄️ **Banco de Dados** — modelagem relacional, diagramas ER e scripts SQL (DDL/DML)
 - 🎨 **UI/UX** — protótipos navegáveis no Figma
+- ☕ **Java** — aplicações desktop com interface gráfica (Swing/NetBeans): loja MVP, NutriSoft e AgendaNutri
 - 💻 **Projeto Integrador** — sistema desktop completo (Java + MySQL)
 
 ## 🗄️ DISCIPLINA - DESENVOLVER ALGORITMOS:
-### Atividades focadas no desenvolvimento do raciocínio lógico usando Portugol.
+### Projetos focadas no desenvolvimento do raciocínio lógico usando Portugol.
+
+📂 Projetos
 
 * 🎮 **[Loja de Jogos](./portugol-logica/portugol-loja-de-jogos.por)**
 * 🍽️ **[Sugestão de Pratos](./portugol-logica/portugol-sugestao-de-pratos.por)**
@@ -28,6 +27,8 @@ sistemas funcionais do início ao fim.
 
 ## 🗄️ DISCIPLINA - AUXILIAR NA MODELAGEM E MANIPULAÇÃO DE BANCO DE DADOS (SQL):
 ### Projetos de estruturação e consultas em bancos de dados.
+
+📂 Projeto
 
 * 🎬 **[Modelagem Streaming](./banco-de-dados/mysql-modelagem-de-streaming.mwb)** *(arquivo do MySQL Workbench — visualize o diagrama abaixo)*
 
@@ -44,6 +45,9 @@ sistemas funcionais do início ao fim.
 </p>
 
 ### Sistema relacional para gerenciamento de corridas nacionais de kart, incluindo controle de pilotos, equipes, etapas e patrocinadores.
+
+📂 Projeto
+
 * 🏎️ **[Gerenciamento de Kart](./banco-de-dados/criacao.sql)** *(arquivo do MySQL Workbench — visualize o diagrama abaixo)*
 
 ### Requisitos do Projeto:
@@ -57,6 +61,9 @@ sistemas funcionais do início ao fim.
 </p>
 
 ### Consultas complexas e filtros estruturados para plataforma de jogos.
+
+📂 Projeto
+
 * 🎮 **[Filtros Avançados TDS Cloud Gaming](./banco-de-dados/criacaofiltros-queries.sql)** 
 
 
@@ -108,6 +115,8 @@ Considerando apenas as tecnologias abordadas ao longo deste módulo:
 
 ## 🎨 Interface e Protótipo (UX/UI)
 O design visual e a experiência do usuário (UX/UI) foram planejados e estruturados no Figma antes da implementação do código, garantindo usabilidade e um fluxo intuitivo para o sistema.
+
+📂 Projeto
 
 * 🔗 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/proto/TCXw1lDy9cpMJhPA3vOeSt/Projeto-Senac?node-id=42-7&t=CUuK3TVibQBDClna-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A7])**
 
@@ -189,7 +198,7 @@ e navegação válida."
 
 ## 🗄️ DISCIPLINA - DESENVOLVER E ORGANIZAR INTERFACE GRÁFICA PARA APLICAÇÕES DESKTOP 
 
-### Loja MVP (Java)
+### Projeto Loja MVP (Java)
 
 ## 📋 Enunciado
 
@@ -226,9 +235,11 @@ Projeto entregue e avaliado pelo professor:
 
 > "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
 
+📂 Projeto
+
 [Ver código do projeto](java/lojamvp-java/)
 
-## 🥗 NutriSoft (Java)
+## 🥗 Projeto NutriSoft (Java)
 
 Software desktop em Java (Swing) que reúne cálculos comuns da rotina de nutricionistas: IMC, gasto calórico e recomendação de nutrientes.
 
@@ -280,4 +291,75 @@ Projeto entregue e avaliado pelo professor:
 
 > "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
 
+📂 Projeto
+
 [Ver código do projeto](java/nutrisoft-java/)
+
+---
+
+## 🗓️ Projeto AgendaNutri – Sistema de Agendamento de Consultas
+
+Software desktop em Java (Swing) para consultórios de nutrição.
+
+### 📋 Contexto
+O Sindicato de Nutricionistas pediu uma prova de conceito de um sistema de agendamento para os consultórios associados. Nesta etapa, **não há banco de dados**: todas as operações acontecem em **listas em memória**.
+
+### ✅ Funcionalidades
+- Listagem de todas as consultas cadastradas em uma tabela (paciente, CPF, telefone, data, já era paciente?, consulta realizada)
+- Cadastro de nova consulta
+- Exclusão da consulta selecionada na tabela
+- Finalização de consulta com receita e observações
+- Atualização automática da tabela após inclusão, exclusão ou finalização
+
+### 🖥️ Telas
+
+<table>
+  <tr>
+    <th align="center" colspan="2">Tela inicial</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2"><img src="java/agendanutri-java/imagens/tela-inicial1.png" alt="Tela inicial" width="700"></td>
+  </tr>
+  <tr>
+    <th align="center">Cadastrar consulta</th>
+    <th align="center">Detalhes da consulta</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="java/agendanutri-java/imagens/tela-cadastro.png" alt="Cadastro de consulta" width="350"></td>
+    <td align="center" valign="top"><img src="java/agendanutri-java/imagens/tela-detalhes.png" alt="Detalhes da consulta" width="350"></td>
+  </tr>
+  <tr>
+    <th align="center" colspan="2">Tela inicial com consultas cadastradas</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2"><img src="java/agendanutri-java/imagens/tela-inicial2.png" alt="Tela inicial com consultas" width="700"></td>
+  </tr>
+</table>
+### 🔒 Regras e validações
+- Validação do formato de **CPF**, **data** e **telefone**
+- Não permite cadastrar sem informar nome, CPF, telefone e data da consulta
+- A checkbox *Consulta Realizada* é marcada automaticamente quando a consulta já foi finalizada e fica desabilitada para edição
+- O botão *Finalizar* só aparece se a consulta ainda não foi realizada
+- Não permite finalizar sem texto no campo de receita e observações
+- Uso de **tratamento de exceções** para evitar que o programa quebre
+
+### 🛠️ Ferramentas Utilizadas
+- Java (Swing)
+- NetBeans
+
+### 💡 Aprendizados
+- Comunicação entre telas (passando a consulta selecionada para a tela de detalhes)
+- Manipulação de dados em memória com listas e `JTable`
+- Validação de entrada e tratamento de exceções
+
+### 📌 Status
+
+Projeto entregue e avaliado pelo professor:
+
+> "Boa entrega da atividade, todos os critérios atingidos. Parabéns!"
+
+**Melhoria futura:** separar a validação da formatação. O ideal é validar apenas os dígitos (quantidade e regra do CPF, por exemplo) e aplicar a máscara (`.`, `-`, `/`) somente na exibição.
+
+📂 Projeto
+
+[Ver código do projeto](java/agendanutri-java/)
